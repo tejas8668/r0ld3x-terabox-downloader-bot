@@ -1,7 +1,7 @@
-API_ID = 123456  # api id
-API_HASH = "ABC-DEF1234ghIkl-zyx57W2v1u123ew11"  # api hash
+API_ID = 27710337  # api id
+API_HASH = "354e1dd8e1e3041ee2145196da8d6aac"  # api hash
 
-BOT_TOKEN = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"  # bot token
+BOT_TOKEN = "6716467783:AAFvF7g-b8L8026HFgOL9zTxB3Sq7L_E9Uc"  # bot token
 
 
 # REDIS
@@ -15,7 +15,7 @@ COOKIE = ""
 ADMINS = [1317173146]
 
 
-BOT_USERNAME = "teraboxdown_bot"
+BOT_USERNAME = "MMPostEditorBot"
 
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
 FORCE_LINK = "@RoldexVerse"
